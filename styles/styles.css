@@ -1,0 +1,36 @@
+body, button {
+    font-family: 'Handlee', cursive;
+}
+
+#main {
+    width: 50%;
+    margin: 40px auto 140px;
+}
+
+h1, h2, p {
+    text-align: center;
+}
+h1 {
+    font-size: 44px;
+    font-family: 'Bangers', cursive;
+    font-weight: normal;
+}
+
+img {
+    width: 100%;
+}
+
+p {
+    font-size: 20px;
+}
+
+button {
+    margin: 80px auto 100px;
+    display: block;
+    font-size: 19px;
+    border: none;
+    padding: 14px 54px;
+    background-color: #222;
+    color: white;
+    border-radius: 5px;
+}
